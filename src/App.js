@@ -9,8 +9,13 @@ import Contact from "./components/Contact";
 import Socials from "./components/Socials";
 import Email from "./components/Email";
 import Timeline from "./components/Timeline";
+import { useEffect } from "react";
 
 function App() {
+  useEffect(() => {
+    document.title = "Aniket Kumar Singh";
+  }, []);
+
   return (
     <div>
       <Socials />
