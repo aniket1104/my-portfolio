@@ -15,9 +15,8 @@ const Contact = () => {
             Get in Touch with Me
           </h1>
           <p className="contactContent py-2 text-center">
-            Although I’m not currently looking for any new opportunities, my
-            inbox is always open. Whether you have a question or just want to
-            say hi, I’ll try my best to get back to you!
+            Please feel free to get in touch with me. I am always looking for
+            new opportunities to utilize my skills and grow as a web developer.
           </p>
           <div className="btnWrapper d-flex justify-content-center my-5">
             <button className="btn sayHi">
@@ -30,7 +29,11 @@ const Contact = () => {
         <div className="project-details pt-4">
           <p className="text-center pt-5">Designed and Built by Aniket</p>
           <div className="d-flex justify-content-center">
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/aniket1104/my-portfolio"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <i class="fa-brands fa-github githubIcon my-2"></i>
             </a>
           </div>

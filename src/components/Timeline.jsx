@@ -66,7 +66,7 @@ const Timeline = () => {
                   <h2>Flipkart-grid 4.0</h2>
                   <h4>Finalist</h4>
                   <p>
-                    a decaying NFT that proves ownership using smart contract.
+                    A decaying NFT that proves ownership using smart contract.
                     Provide the purchasing history, warranty period, and other
                     item information.
                   </p>
@@ -91,7 +91,7 @@ const Timeline = () => {
                   <div class="timeline-date">2019</div>
                   <h2>Emmanuel Mission Senior Secondary School</h2>
                   <h4>Kota, Rajasthan</h4>
-                  <p>Passed Class 12th</p>
+                  <p>Completed Senior Secondary School.</p>
                 </div>
               </div>
               <div
@@ -102,7 +102,7 @@ const Timeline = () => {
                   <div class="timeline-date">2017</div>
                   <h2>Jiya Lal Mittal D.A.V. Public School </h2>
                   <h4>Gurdaspur, Punjab</h4>
-                  <p>Passed Class 10th</p>
+                  <p>Completed High School.</p>
                 </div>
               </div>
             </div>
