@@ -21,8 +21,8 @@ const Home = () => {
           <p className="home-about">
             I'm a third year undergrad @{" "}
             <span>Bangalore Institute of Technology</span>. I'm an experienced
-            Frontend web developer. I'm a blockchain enthusiast. Also, I have a
-            good problem solving skill.
+            Web Developer. I'm a blockchain enthusiast. Also, I have a good
+            problem solving skills.
           </p>
           <div className="my-5">
             <button className="btn resume">

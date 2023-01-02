@@ -80,7 +80,9 @@ const Timeline = () => {
                   <div class="timeline-date">2020</div>
                   <h2>Bangalore Institute of Technology</h2>
                   <h4>Bangalore, Karnataka</h4>
-                  <p>Started Engineering in ISE</p>
+                  <p>
+                    Started Engineering in Information Science & Engineering.
+                  </p>
                 </div>
               </div>
               <div
